@@ -310,7 +310,7 @@ body {
 .panoram {
     min-height: 55vh;
     background-size: cover;
-    background-image: url(/images/mount.jpg);
+    background-image: url(images/mount.jpg);
     background-repeat: no-repeat;
     background-position: center;
 
@@ -321,11 +321,11 @@ body {
 }
 
 .panoram-leafes {
-    background-image: url(/images/leafes.jpg);
+    background-image: url(images/leafes.jpg);
 }
 
 .panoram-starfall {
-    background-image: url(/images/starfall.jpg);
+    background-image: url(images/starfall.jpg);
 }
 
 .panoram__content {
